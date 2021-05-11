@@ -2,7 +2,7 @@
 
    
  
-:octocat:     I'm currently doing a MSc in Computer Science at the University of Essex, UK. 
+:octocat:     I'm currently doing a PgDip in Computer Science at the University of Essex, UK. 
      
 :rocket:      I'm interested in game development, RPA and Machine Learning 
 
