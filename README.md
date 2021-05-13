@@ -6,7 +6,7 @@
      
 :rocket:      I'm interested in game development, RPA and Machine Learning 
 
-📫       Connect with me on: :sparkles:  
+📫:sparkles:  
 
 * ORCID ID: 0000-0001-8250-1340
 * Twitter: alice_alsv
