@@ -4,7 +4,7 @@
  
 :octocat:     I'm currently doing a PgDip in Computer Science at the University of Essex (UoEO), UK. 
      
-:rocket:      I'm interested in game development, RPA and Machine Learning 
+:rocket:      I'm especially interested in game development, RPA and Machine Learning 
 
 📫:sparkles:  
 
