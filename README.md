@@ -7,7 +7,7 @@
 
 📫 ⚡  
 
-[ORCID](https://orcid.org/0000-0001-8250-1340)
+ORCID ID: [ORCID](https://orcid.org/0000-0001-8250-1340)
 
 :sparkles: Connect with me on:
 
