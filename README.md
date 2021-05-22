@@ -1,8 +1,8 @@
-## Hi there :octocat:    <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"></a>
+### Hi there :octocat: <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"></a>
 
  
 
-## Alice Villar   
+## Alice Villar     
 
 -  :rocket: **Interests :** Game development | RPA | Machine Learning 
 -  :books: **MSc :** Department of Computer Science, University of Essex (UoEO), UK 
