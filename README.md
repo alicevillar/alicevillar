@@ -8,13 +8,9 @@
 -  :books: **MSc :** Department of Computer Science, University of Essex (UoEO), UK 
 -  :sparkles:: **ePortfolio :** Department of Computer Science, University of Essex (UoEO), UK 
 
- [![ePortfolio](https://img.shields.io/badge/ePortfolio-46a2f1.svg?&style=flat-square&logo=Github&logoColor=white&link=https://alicevillar.github.io/ePortifolio_MSc_Essex/)](https://alicevillar.github.io/ePortifolio_MSc_Essex/)
-[![Orcid](https://img.shields.io/badge/ORCID-46a2f1.svg?&style=flat-square&logo=orcid&logoColor=white&link=https://orcid.org/0000-0001-8250-1340/)](https://orcid.org/0000-0001-8250-1340)
-[![TWITTER](https://img.shields.io/badge/TWITTER-46a2f1.svg?&style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/alice_alsv)](https://twitter.com/alice_alsv)
-[![Gmail](https://img.shields.io/badge/GMAIL-46a2f1.svg?&style=flat-square&logo=Gmail&logoColor=white&link=mailto:alsaldanhavillar@gmail.com)](mailto:alsaldanhavillar@gmail.com)
-
-    
- 
- 
- 
- 
+ [![ePortfolio](https://img.shields.io/badge/ePortfolio-46a2f1.svg?&style=for-the-badge&logo=Github&logoColor=white&link=https://alicevillar.github.io/ePortifolio_MSc_Essex/)](https://alicevillar.github.io/ePortifolio_MSc_Essex/)
+[![Orcid](https://img.shields.io/badge/ORCID-46a2f1.svg?&style=for-the-badge&logo=orcid&logoColor=white&link=https://orcid.org/0000-0001-8250-1340/)](https://orcid.org/0000-0001-8250-1340)
+[![TWITTER](https://img.shields.io/badge/TWITTER-46a2f1.svg?&style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/alice_alsv)](https://twitter.com/alice_alsv)
+[![Gmail](https://img.shields.io/badge/GMAIL-46a2f1.svg?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:alsaldanhavillar@gmail.com)](mailto:alsaldanhavillar@gmail.com)
+[![TWITTER](https://img.shields.io/badge/-DEV.TO-46a2f1.svg?&style=for-the-badge&logo=DEVTO&logoColor=white&link=https://dev.to/alicevillar)](https://dev.to/alicevillar)
+     
