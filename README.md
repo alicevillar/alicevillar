@@ -14,5 +14,4 @@
 [![Gmail](https://img.shields.io/badge/GMAIL-46a2f1.svg?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:alsaldanhavillar@gmail.com)](mailto:alsaldanhavillar@gmail.com)
 [![Medium](https://img.shields.io/badge/-Medium-46a2f1.svg?&style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@alicevillar)](https://medium.com/@alicevillar)
  [![DEVTO](https://img.shields.io/badge/-DEV.TO-46a2f1.svg?&style=for-the-badge&logo=Devto&logoColor=white&link=https://dev.to/alicevillar)](https://dev.to/alicevillar)
-[![TWITTER](https://img.shields.io/badge/TWITTER-46a2f1.svg?&style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/alice_alsv)](https://twitter.com/alice_alsv)
-     
+ 
