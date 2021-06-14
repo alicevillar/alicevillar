@@ -14,3 +14,6 @@
 [![Gmail](https://img.shields.io/badge/GMAIL-46a2f1.svg?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:alsaldanhavillar@gmail.com)](mailto:alsaldanhavillar@gmail.com)
 [![Medium](https://img.shields.io/badge/-Medium-46a2f1.svg?&style=for-the-badge&logo=Medium&logoColor=white&link=https://medium.com/@alicevillar)](https://medium.com/@alicevillar) 
  
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=alicevillar&layout=compact&theme=prussian)
+
