@@ -1,6 +1,6 @@
 ### Hi there :octocat:  
 
-## Alice Villar     
+## Alice Gana     
 
 -  :rocket: **Interests :** Game development | RPA | Machine Learning 
 -  :books: **MSc :** Department of Computer Science, University of Essex (UoEO), UK 
