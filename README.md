@@ -1,8 +1,8 @@
 ### Hi there :octocat:  
 
-## Alice Villar - Currently a medical student     
+## Alice Villar - Medical student     
 
--  :rocket: **Interests :** Game development | RPA | Machine Learning 
+-  :rocket: **Interests :** Machine Learning  | Oncology Research | Scientific Publications
 -  :books: **MSc :** Department of Computer Science, University of Essex (UoEO), UK 
  
 [![ePortfolio](https://img.shields.io/badge/ePortfolio-46a2f1.svg?&style=for-the-badge&logo=Github&logoColor=white&link=https://alicevillar.github.io/eportifolio-msc-essex/)](https://alicevillar.github.io/eportifolio-msc-essex/)
