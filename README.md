@@ -1,6 +1,6 @@
 ### Hi there :octocat:  
 
-## Alice Villar - Medical student     
+## Alice Villar - Researcher   
 
 -  :rocket: **Interests :** Machine Learning  | Oncology Research | Scientific Publications
 -  :books: **MSc :** Department of Computer Science, University of Essex (UoEO), UK
