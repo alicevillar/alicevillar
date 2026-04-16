@@ -2,7 +2,7 @@
 
 ## Alice Villar - Researcher   
 
--  :rocket: **Interests :** Machine Learning  | Oncology Research | Scientific Publications
+-  :rocket: **Interests :** Machine Learning  | Emerging Technologies | Industry 5.0
 -  :books: **MSc :** Department of Computer Science, University of Essex (UoEO), UK
  
  
