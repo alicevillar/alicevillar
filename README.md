@@ -4,7 +4,7 @@
 
 -  :rocket: **Interests :** Machine Learning  | Emerging Technologies | Industry 5.0 | Industry 5.0 | Dermathology | Cancer| Healthcare
 -  :books: **MSc :** Computer Science, University of Essex, UK
--  -  :books: **MSc :** 4th-year medical student
+-  :books: **MSc :** 4th-year medical student
  
  
  [![Orcid](https://img.shields.io/badge/ORCID-46a2f1.svg?&style=for-the-badge&logo=orcid&logoColor=white&link=https://orcid.org/0000-0001-8250-1340/)](https://orcid.org/0000-0001-8250-1340</a></div>) 
